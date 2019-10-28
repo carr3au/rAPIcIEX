@@ -131,5 +131,5 @@ getCompany <- function(apiEnv = NULL, symbol = NULL){
 
 
 # getDelayedQuote ---------------------------------------------------------
-
+#test
 
